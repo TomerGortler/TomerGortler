@@ -1,4 +1,4 @@
-BIO
+**BIO**
     
 - 👋 Hi, I’m Tomer Gortler
 - 👀 I’m interested in Coding, Sports and Gaming
@@ -30,7 +30,7 @@ GEARS
 
     Razer Goliathus Speed
 
-Monitor
+**Monitor**
 
     🖥️ MSI G24 Series (C4)
 
